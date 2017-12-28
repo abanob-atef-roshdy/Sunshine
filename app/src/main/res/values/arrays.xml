@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="units_labels">
+        <item> @string/celsius </item>
+        <item> @string/fahrenheit </item>
+        <item> @string/kelvin </item>
+    </array>
+    <array name="units_values">
+        <item> @string/celsius_value </item>
+        <item> @string/fahrenheit_value </item>
+        <item> @string/kelvin_value </item>
+    </array>
+    
+    
+    
+    
+</resources>
